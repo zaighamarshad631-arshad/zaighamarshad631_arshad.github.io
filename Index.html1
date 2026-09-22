@@ -1,0 +1,115 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zaigham Arshad | IT Support Engineer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #f4f6f8;
+            color: #222;
+            line-height: 1.6;
+        }
+        header {
+            background: #1f2937;
+            color: white;
+            text-align: center;
+            padding: 50px 20px;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 38px;
+        }
+        header p {
+            font-size: 20px;
+            margin-top: 10px;
+        }
+        section {
+            max-width: 900px;
+            margin: 30px auto;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+        }
+        h2 {
+            color: #1f2937;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 8px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .contact {
+            text-align: center;
+        }
+        .skill {
+            display: inline-block;
+            background: #e5e7eb;
+            padding: 8px 14px;
+            margin: 5px;
+            border-radius: 20px;
+        }
+        footer {
+            text-align: center;
+            background: #1f2937;
+            color: white;
+            padding: 20px;
+            margin-top: 30px;
+        }
+    </style>
+</head><body><header>
+    <h1>Zaigham Arshad</h1>
+    <p>IT Support Engineer | Technical Support | Networking</p>
+</header><section>
+    <h2>About Me</h2>
+    <p>
+        I am an IT Support Engineer with a Bachelor's degree in Computer Science
+        and CCNA certification. I am interested in IT support, technical
+        troubleshooting, networking, system support and helping users resolve
+        technical issues efficiently.
+    </p>
+</section><section>
+    <h2>Technical Skills</h2>
+    <span class="skill">IT Support</span>
+    <span class="skill">Technical Troubleshooting</span>
+    <span class="skill">Networking</span>
+    <span class="skill">Windows Support</span>
+    <span class="skill">Hardware Troubleshooting</span>
+    <span class="skill">Software Troubleshooting</span>
+    <span class="skill">Microsoft 365</span>
+    <span class="skill">CCNA</span>
+    <span class="skill">Network Troubleshooting</span>
+    <span class="skill">User Support</span>
+</section><section>
+    <h2>Professional Experience</h2><h3>IT Support / Technical Support</h3>
+<p>
+    Experienced in assisting users with technical problems, troubleshooting
+    hardware and software issues, supporting computer systems and resolving
+    basic networking problems.
+</p>
+
+<h3>Bait Ul Mandi Group – Dubai</h3>
+<p>
+    Customer-facing experience with responsibility for daily operations,
+    communication and problem solving.
+</p>
+
+</section><section>
+    <h2>Education</h2>
+    <p><strong>Bachelor of Computer Science (BSCS)</strong></p>
+    <p>Virtual University of Pakistan</p><p><strong>Intermediate / ICS</strong></p>
+<p>Punjab Group of Colleges, Lahore</p>
+
+</section><section>
+    <h2>Certification</h2>
+    <p><strong>CCNA – Cisco Certified Network Associate</strong></p>
+</section><section class="contact">
+    <h2>Contact</h2>
+    <p><strong>Email:</strong> zaighamarshad631@gmail.com</p>
+    <p><strong>Phone:</strong> +971 56 385 0052</p>
+    <p><strong>Location:</strong> Dubai, UAE</p>
+</section><footer>
+    <p>© 2026 Zaigham Arshad | IT Support Engineer</p>
+</footer></body>
+</html>
